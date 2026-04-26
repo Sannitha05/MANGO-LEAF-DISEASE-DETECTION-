@@ -1,0 +1,7 @@
+mm/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+leaf_disease_model.h5
+db.sqlite3
